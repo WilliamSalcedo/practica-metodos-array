@@ -6,7 +6,7 @@ Una aplicación sencilla hecha en JavaScript que permite ingresar una lista de n
 
 - Añadir nombres de amigos
 - Sortear un amigo (o más, si deseas expandir)
-- Interfaz simple y amigable (si tiene interfaz)
+- Interfaz simple y amigable
 - Hecho con JavaScript puro
 
 ## Vista previa
